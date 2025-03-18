@@ -1,0 +1,85 @@
+/opt/homebrew/opt/openjdk/libexec/openjdk.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/chenggewen/.m2/repository/org/apache/commons/commons-csv/1.10.0/commons-csv-1.10.0.jar:/Users/chenggewen/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/Users/chenggewen/.m2/repository/io/swagger/core/v3/swagger-annotations/2.0.0/swagger-annotations-2.0.0.jar:/Users/chenggewen/.m2/repository/com/squareup/okhttp/okhttp/2.7.5/okhttp-2.7.5.jar:/Users/chenggewen/.m2/repository/com/squareup/okio/okio/1.6.0/okio-1.6.0.jar:/Users/chenggewen/.m2/repository/com/squareup/okhttp/logging-interceptor/2.7.5/logging-interceptor-2.7.5.jar:/Users/chenggewen/.m2/repository/com/google/code/gson/gson/2.8.1/gson-2.8.1.jar:/Users/chenggewen/.m2/repository/io/gsonfire/gson-fire/1.8.3/gson-fire-1.8.3.jar:/Users/chenggewen/.m2/repository/org/threeten/threetenbp/1.3.5/threetenbp-1.3.5.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/chenggewen/Desktop/6650_assignment1/Client/src/main/java:/Users/chenggewen/Desktop/6650_assignment1/Client/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'swagger-java-client 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/chenggewen/Desktop/6650_assignment1/Client/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'swagger-java-client 1.0.0 API'
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.api
+io.swagger.client.api
+io.swagger.client.api
+io.swagger.client
+io.swagger.client.client
+io.swagger.client
+/Users/chenggewen/.m2/repository/org/apache/commons/commons-csv/1.10.0/commons-csv-1.10.0.jar = 1674928343000
+/Users/chenggewen/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar = 1519208663000
+/Users/chenggewen/.m2/repository/io/swagger/core/v3/swagger-annotations/2.0.0/swagger-annotations-2.0.0.jar = 1522077293000
+/Users/chenggewen/.m2/repository/com/squareup/okhttp/okhttp/2.7.5/okhttp-2.7.5.jar = 1456500233000
+/Users/chenggewen/.m2/repository/com/squareup/okio/okio/1.6.0/okio-1.6.0.jar = 1440547193000
+/Users/chenggewen/.m2/repository/com/squareup/okhttp/logging-interceptor/2.7.5/logging-interceptor-2.7.5.jar = 1456500338000
+/Users/chenggewen/.m2/repository/com/google/code/gson/gson/2.8.1/gson-2.8.1.jar = 1496194739000
+/Users/chenggewen/.m2/repository/io/gsonfire/gson-fire/1.8.3/gson-fire-1.8.3.jar = 1523143052000
+/Users/chenggewen/.m2/repository/org/threeten/threetenbp/1.3.5/threetenbp-1.3.5.jar = 1496838034000
+/Users/chenggewen/Desktop/6650_assignment1/Client/src/main/java/.DS_Store = 1741921676532
+/Users/chenggewen/Desktop/6650_assignment1/Client/src/main/java = 1739573872109
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/generated-sources/annotations = 1741990719053
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/tag-search-index.js = 1741990722465
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/overview-tree.html = 1741990722447
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/module-search-index.js = 1741990722464
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/index.html = 1741990722448
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/package-search-index.js = 1741990722464
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/serialized-form.html = 1741990722381
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/index-all.html = 1741990722481
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/allpackages-index.html = 1741990722464
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/member-search-index.js = 1741990722465
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/overview-summary.html = 1741990722483
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/help-doc.html = 1741990722486
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/element-list = 1741990722364
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/search.html = 1741990722482
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/allclasses-index.html = 1741990722462
+/Users/chenggewen/Desktop/6650_assignment1/Client/target/apidocs/type-search-index.js = 1741990722464
